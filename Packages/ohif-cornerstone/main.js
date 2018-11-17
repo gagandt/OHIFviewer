@@ -16,7 +16,7 @@ cornerstoneWADOImageLoader.external.dicomParser = dicomParser;
 // This is effectively the public API...
 export {
     cornerstone,
-    /*cornerstoneTools,*/
+    cornerstoneTools,
     cornerstoneMath,
     cornerstoneWADOImageLoader,
     dicomParser,
