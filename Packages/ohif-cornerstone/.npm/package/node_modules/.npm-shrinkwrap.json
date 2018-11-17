@@ -1,0 +1,74 @@
+{
+  "lockfileVersion": 1,
+  "dependencies": {
+    "babel-polyfill": {
+      "version": "6.26.0",
+      "resolved": "https://registry.npmjs.org/babel-polyfill/-/babel-polyfill-6.26.0.tgz",
+      "integrity": "sha1-N5k3q8Z9eJWXCtxiHyhM2WbPIVM="
+    },
+    "babel-runtime": {
+      "version": "6.26.0",
+      "resolved": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.26.0.tgz",
+      "integrity": "sha1-llxwWGaOgrVde/4E/yM3vItWR/4=",
+      "dependencies": {
+        "regenerator-runtime": {
+          "version": "0.11.1",
+          "resolved": "https://registry.npmjs.org/regenerator-runtime/-/regenerator-runtime-0.11.1.tgz",
+          "integrity": "sha512-MguG95oij0fC3QV3URf4V2SDYGJhJnJGqvIIgdECeODCT98wSWDAJ94SSuVpYQUoTcGUIL6L4yNB7j1DFFHSBg=="
+        }
+      }
+    },
+    "core-js": {
+      "version": "2.5.7",
+      "resolved": "https://registry.npmjs.org/core-js/-/core-js-2.5.7.tgz",
+      "integrity": "sha512-RszJCAxg/PP6uzXVXL6BsxSXx/B05oJAQ2vkJRjyjrEcNVycaqOmNb5OTxZPE3xa5gwZduqza6L9JOCenh/Ecw=="
+    },
+    "cornerstone-core": {
+      "version": "2.2.7",
+      "resolved": "https://registry.npmjs.org/cornerstone-core/-/cornerstone-core-2.2.7.tgz",
+      "integrity": "sha512-D2CQQMrnr9G/lH4fNspjwiqPcgS+bDFbltcGV1Y/az+402Ja0iNyMkrGQEuaaQNsz6A1D6GD03MUGI9AeVHMDw=="
+    },
+    "cornerstone-math": {
+      "version": "0.1.6",
+      "resolved": "https://registry.npmjs.org/cornerstone-math/-/cornerstone-math-0.1.6.tgz",
+      "integrity": "sha1-k7OtcvroFTg8zlGAryODZVAgDDo="
+    },
+    "cornerstone-tools": {
+      "version": "2.4.0",
+      "resolved": "https://registry.npmjs.org/cornerstone-tools/-/cornerstone-tools-2.4.0.tgz",
+      "integrity": "sha512-M0UcnqSnN8cUhjTnr+om0621yYOiL1rPP+LK5VsMqe1R3yKvfePZhSwhNjw8j4+qVXvliPsfcA7NwsvtOBOaOA==",
+      "dependencies": {
+        "cornerstone-math": {
+          "version": "0.1.6",
+          "resolved": "https://registry.npmjs.org/cornerstone-math/-/cornerstone-math-0.1.6.tgz",
+          "integrity": "sha1-k7OtcvroFTg8zlGAryODZVAgDDo="
+        }
+      }
+    },
+    "cornerstone-wado-image-loader": {
+      "version": "2.1.4",
+      "resolved": "https://registry.npmjs.org/cornerstone-wado-image-loader/-/cornerstone-wado-image-loader-2.1.4.tgz",
+      "integrity": "sha512-JAqr9BAUJQI3kZDzSzG9mV/SiZRSZUzv0CpE/z60C0vSdJbDzOQXlQ6EddZT8WY5n+v876Li+FFcXZZjlsCtuQ=="
+    },
+    "dcmjs": {
+      "version": "0.2.1",
+      "resolved": "https://registry.npmjs.org/dcmjs/-/dcmjs-0.2.1.tgz",
+      "integrity": "sha512-t7Wrcmm4O2PrJ/HoYdC9SJElyqz6qkW1l2EZtFZnXI9H6XptfEeRR0yM5/dNy3XmKGm4iskk04WlC9sfY+xjGA=="
+    },
+    "dicom-parser": {
+      "version": "1.8.0",
+      "resolved": "https://registry.npmjs.org/dicom-parser/-/dicom-parser-1.8.0.tgz",
+      "integrity": "sha512-PVSVZu408xNDSYR3vtvzYhpIj18Y9+DPJOORkWvRP+IthcSUQfkxsCYSXhGK8JujUfoJ+FnZqRVfIhe3hzRJbQ=="
+    },
+    "hammerjs": {
+      "version": "2.0.8",
+      "resolved": "https://registry.npmjs.org/hammerjs/-/hammerjs-2.0.8.tgz",
+      "integrity": "sha1-BO93hiz/K7edMPdpIJWTAiK/YPE="
+    },
+    "regenerator-runtime": {
+      "version": "0.10.5",
+      "resolved": "https://registry.npmjs.org/regenerator-runtime/-/regenerator-runtime-0.10.5.tgz",
+      "integrity": "sha1-M2w+/BIgrc7dosn6tntaeVWjNlg="
+    }
+  }
+}
